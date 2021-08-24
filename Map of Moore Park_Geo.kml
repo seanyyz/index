@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <GroundOverlay>
 	<name>Map of Moore Park_Georeferenced.tif</name>
-	<description>Source Image: D:/World of Walking/Moore Park/Map of Moore Park_Georeferenced.tif</description>
+	<description>Source Image: https://github.com/seanyyz/index/blob/main/Map%20of%20Moore%20Park_Georeferenced.tif</description>
 	<Icon>
 		<href>C:/Users/seanm/AppData/LocalLow/Google/GoogleEarth/import/Map of Moore Park_Georeferenced_scaled.png</href>
 		<viewBoundScale>0.75</viewBoundScale>
